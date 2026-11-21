@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs><radialGradient id="g" cx="50%" cy="34%" r="75%"><stop offset="0" stop-color="#22385E"/><stop offset="1" stop-color="#0D1524"/></radialGradient>
+<clipPath id="c"><rect width="772.4" height="900"/></clipPath>
+<filter id="b" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="14"/></filter></defs>
+<rect width="512" height="512" fill="url(#g)"/>
+<svg x="96" y="96" width="320" height="320" viewBox="373 42 640 640">
+<g filter="url(#b)" opacity=".55"><path d="M820.1 227.5 A219.55 219.55 0 1 0 820.1 563.9" fill="none" stroke="#FFD05A" stroke-width="54" clip-path="url(#c)"/><circle cx="680.6" cy="77.7" r="25.5" fill="#FFD05A"/></g>
+<path d="M820.1 227.5 A219.55 219.55 0 1 0 820.1 563.9" fill="none" stroke="#FFD05A" stroke-width="54" clip-path="url(#c)"/>
+<g fill="none" stroke="#5FE3D0" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"><path d="M780 222C791 231 803 238 813 247C848 280 875 326 877 375C885 383 894 390 901 398C911 410 918 422 926 435C929 440 934 447 935 453C937 467 928 476 914 475C911 475 909 473 906 474C900 475 895 484 896 490C898 503 910 505 911 508C912 511 911 515 909 518C906 521 901 523 899 526C898 529 912 539 908 547C905 552 893 551 893 565C893 572 898 577 901 583C902 586 901 591 901 594C901 608 902 614 889 623C880 629 869 633 858 635C847 637 837 633 826 632C803 631 767 645 761 670"/><path d="M899 526 L890 526"/></g>
+<circle cx="680.6" cy="77.7" r="25.5" fill="#FFD05A"/></svg></svg>
